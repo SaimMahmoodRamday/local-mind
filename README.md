@@ -35,24 +35,6 @@ A privacy-focused local chatbot that runs entirely on your machine using **Ollam
 
 ---
 
-## 🧠 Architecture Flow
-
-```text
-User Input
-   ↓
-DFA Intent Classification
-   ↓
- ├─ Greeting/Thanks → Canned Response
- ├─ Math → AST Solver
- └─ General → CFG Prompt → LLM (Mistral)
-   ↓
-Safety Filter
-   ↓
-Streamed Output + Save Chat
-```
-
----
-
 ## 🏗 Tech Stack
 
 - **Frontend:** Streamlit  
