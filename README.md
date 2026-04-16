@@ -6,31 +6,31 @@ A privacy-focused local chatbot that runs entirely on your machine using **Ollam
 
 ## ✨ Features
 
-- 🧠 **DFA-based Intent Classification**
+- **DFA-based Intent Classification**
   Routes queries into:
   - Greeting / Thanks / Goodbye → instant responses  
   - Math → safe evaluator  
   - General → LLM  
 
-- 🧮 **Safe Math Engine (AST-based)**
+- **Safe Math Engine (AST-based)**
   Secure expression evaluation without `eval()`
 
-- ⚡ **CFG-style Prompt Builder**
+- **CFG-style Prompt Builder**
   Structured prompts for better LLM control and reduced hallucinations
 
-- 🤖 **Local LLM (Ollama + Mistral)**
+- **Local LLM (Ollama + Mistral)**
   Fully offline AI chatbot
 
-- 🔐 **Safety Filtering**
+- **Safety Filtering**
   Blocks unsafe inputs and filters harmful outputs
 
-- 💬 **Streaming Responses**
+- **Streaming Responses**
   Real-time token streaming like ChatGPT
 
-- 💾 **Local Chat Storage**
+- **Local Chat Storage**
   Chats saved as JSON files (no database)
 
-- 🎛️ **User Controls**
+- **User Controls**
   Toggle automata mode + adjust temperature
 
 ---
