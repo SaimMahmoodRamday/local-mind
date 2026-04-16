@@ -65,8 +65,7 @@ Streamed Output + Save Chat
 
 ## 🚀 Setup Instructions
 
-- Install Ollama
-Download and install Ollama: https://ollama.com  
+- Download and install Ollama: https://ollama.com  
 - Run the model:
 ```bash
 ollama run mistral
