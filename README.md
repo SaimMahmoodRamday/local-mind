@@ -1,4 +1,4 @@
-# 🤖 Automata-Guided Local Chatbot
+# Automata-Guided Local Chatbot
 
 A privacy-focused local chatbot that runs entirely on your machine using **Ollama + Mistral**, enhanced with **DFA-based intent classification, CFG-style prompt structuring, and safety filtering** to make responses more efficient, controlled, and reliable.
 
